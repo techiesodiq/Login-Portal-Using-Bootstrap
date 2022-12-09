@@ -1,2 +1,2 @@
 # Login-Portal-Using-Bootstrap
-This login portal was developed using Bootstrap 4. A project by Sodiq Akanmu
+This login portal is a project developed using Bootstrap 4 by Sodiq Akanmu
